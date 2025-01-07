@@ -1,0 +1,134 @@
+Date,User Email,Edit Type,Occurrences,Time Spent
+2024-07-29,user1@gmail.com,action,64,494.979
+2024-07-29,user1@gmail.com,add component,6,0
+2024-07-29,user1@gmail.com,add page,4,0
+2024-07-29,user1@gmail.com,component property,20,27.202
+2024-07-29,user1@gmail.com,create project,1,0
+2024-07-29,user1@gmail.com,delete component,1,0
+2024-07-29,user1@gmail.com,delete page,1,0
+2024-07-29,user1@gmail.com,page property,2,0
+2024-07-29,user1@gmail.com,updated tab,41,599.988
+2024-07-29,user1@gmail.com,widget property,520,7736.412
+2024-07-30,user1@gmail.com,action,704,8412.498
+2024-07-30,user1@gmail.com,add component,3,0
+2024-07-30,user1@gmail.com,add page,5,0
+2024-07-30,user1@gmail.com,component property,34,112.633
+2024-07-30,user1@gmail.com,delete page,1,0
+2024-07-30,user1@gmail.com,page property,18,13.129
+2024-07-30,user1@gmail.com,revert snapshot,4,19.031497
+2024-07-30,user1@gmail.com,updated tab,64,1824.134
+2024-07-30,user1@gmail.com,widget property,795,9349.885
+2024-07-31,user1@gmail.com,action,2,0.759
+2024-07-31,user1@gmail.com,component property,1,0
+2024-07-31,user1@gmail.com,updated tab,4,25.592
+2024-07-31,user1@gmail.com,widget property,22,222.315
+2024-08-02,user1@gmail.com,action,168,2345.063
+2024-08-02,user1@gmail.com,add page,1,0
+2024-08-02,user1@gmail.com,component property,1,0
+2024-08-02,user1@gmail.com,page property,6,0
+2024-08-02,user1@gmail.com,updated tab,29,516.118
+2024-08-02,user1@gmail.com,widget property,154,3274.846
+2024-08-05,user1@gmail.com,action,61,1784.838
+2024-08-05,user1@gmail.com,add component,1,0
+2024-08-05,user1@gmail.com,component property,3,0
+2024-08-05,user1@gmail.com,revert snapshot,2,0.010125
+2024-08-05,user1@gmail.com,widget property,10,76.992
+2024-08-06,user1@gmail.com,action,9,173.523
+2024-08-08,user1@gmail.com,action,42,295.101
+2024-08-08,user1@gmail.com,updated tab,1,0
+2024-08-08,user1@gmail.com,widget property,20,1056.287
+2024-08-16,user3@gmail.com,action,1,0
+2024-08-16,user3@gmail.com,updated tab,2,6.207
+2024-08-16,user3@gmail.com,widget property,27,283.073
+2024-08-16,user1@gmail.com,updated tab,1,0
+2024-08-16,user1@gmail.com,widget property,2,5.022
+2024-09-03,user2@gmail.com,action,17,40.354
+2024-09-03,user2@gmail.com,add component,3,0
+2024-09-03,user2@gmail.com,add page,3,0
+2024-09-03,user2@gmail.com,component property,13,90.501
+2024-09-03,user2@gmail.com,page property,4,5.072
+2024-09-03,user2@gmail.com,updated tab,62,788.179
+2024-09-03,user2@gmail.com,widget property,295,5597.048
+2024-09-05,user2@gmail.com,action,49,367.21
+2024-09-05,user2@gmail.com,component property,7,0
+2024-09-05,user2@gmail.com,page property,3,0
+2024-09-05,user2@gmail.com,updated tab,83,1770.428
+2024-09-05,user2@gmail.com,widget property,96,2417.115
+2024-09-12,user2@gmail.com,action,54,891.881
+2024-09-12,user2@gmail.com,add page,1,0
+2024-09-12,user2@gmail.com,delete page,1,0
+2024-09-12,user2@gmail.com,page property,2,0
+2024-09-12,user2@gmail.com,updated tab,12,365.484
+2024-09-12,user2@gmail.com,widget property,199,4364.609
+2024-10-15,user2@gmail.com,action,1,0
+2024-10-15,user2@gmail.com,updated tab,2,10.645
+2024-10-24,user2@gmail.com,action,8,759.886356
+2024-10-24,user2@gmail.com,page property,1,0
+2024-10-24,user2@gmail.com,updated tab,2,13.857097
+2024-10-27,user2@gmail.com,action,5,13.488394
+2024-10-27,user2@gmail.com,widget property,9,444.63165
+2024-10-28,user2@gmail.com,action,10,462.125038
+2024-10-28,user2@gmail.com,component property,2,0
+2024-10-28,user2@gmail.com,page property,2,0
+2024-10-28,user2@gmail.com,updated tab,15,1897.351368
+2024-10-28,user2@gmail.com,widget property,73,3484.43325
+2024-10-29,user2@gmail.com,action,94,597.696442
+2024-10-29,user2@gmail.com,component property,3,0
+2024-10-29,user2@gmail.com,page property,24,9.426767
+2024-10-29,user2@gmail.com,updated tab,16,56.347167
+2024-10-29,user2@gmail.com,widget property,321,5129.675167
+2024-10-30,user2@gmail.com,action,123,1626.567811
+2024-10-30,user2@gmail.com,component property,8,0
+2024-10-30,user2@gmail.com,page property,16,11.210552
+2024-10-30,user2@gmail.com,updated tab,10,96.782046
+2024-10-30,user2@gmail.com,widget property,44,1073.589612
+2024-10-31,user2@gmail.com,action,90,1638.173277
+2024-10-31,user2@gmail.com,add component,1,0
+2024-10-31,user2@gmail.com,component property,6,0
+2024-10-31,user2@gmail.com,delete component,1,0
+2024-10-31,user2@gmail.com,delete page,2,364.174801
+2024-10-31,user2@gmail.com,page property,6,9.731092
+2024-10-31,user2@gmail.com,updated tab,4,0
+2024-10-31,user2@gmail.com,widget property,77,925.057319
+2024-11-05,user2@gmail.com,action,141,4789.44104
+2024-11-05,user2@gmail.com,component property,12,36.470239
+2024-11-05,user2@gmail.com,delete page,1,0
+2024-11-05,user2@gmail.com,page property,28,22.184457
+2024-11-05,user2@gmail.com,updated tab,10,48.976284
+2024-11-05,user2@gmail.com,widget property,87,3320.828997
+2024-11-07,user2@gmail.com,updated tab,99,2034.008739
+2024-11-12,user2@gmail.com,action,59,1794.966929
+2024-11-12,user2@gmail.com,page property,13,136.9505
+2024-11-12,user2@gmail.com,updated tab,9,107.286042
+2024-11-12,user2@gmail.com,widget property,66,3382.086235
+2024-11-20,user2@gmail.com,action,3,83.231652
+2024-11-20,user2@gmail.com,updated tab,12,144.643282
+2024-11-20,user2@gmail.com,widget property,2,4.265591
+2024-11-21,user2@gmail.com,action,22,143.805809
+2024-11-21,user2@gmail.com,page property,4,0
+2024-11-21,user2@gmail.com,updated tab,10,519.976379
+2024-11-28,user2@gmail.com,action,120,2809.044528
+2024-11-28,user2@gmail.com,component property,1,0
+2024-11-28,user2@gmail.com,page property,19,11.620029
+2024-11-28,user2@gmail.com,updated tab,43,2367.337105
+2024-11-28,user2@gmail.com,widget property,62,2001.389492
+2024-12-03,user2@gmail.com,action,31,968.201068
+2024-12-03,user2@gmail.com,updated tab,15,976.378139
+2024-12-03,user2@gmail.com,widget property,69,2260.526721
+2024-12-06,user2@gmail.com,component property,1,0
+2024-12-06,user2@gmail.com,updated tab,3,0
+2024-12-06,user2@gmail.com,widget property,4,78.090334
+2024-12-10,user2@gmail.com,action,31,1482.226204
+2024-12-10,user2@gmail.com,page property,4,14.198109
+2024-12-10,user2@gmail.com,updated tab,17,2140.646848
+2024-12-10,user2@gmail.com,widget property,3,20.764683
+2024-12-12,user2@gmail.com,action,1,0
+2024-12-12,user2@gmail.com,page property,1,0
+2024-12-12,user2@gmail.com,widget property,1,0
+2024-12-26,user2@gmail.com,action,13,268.353623
+2024-12-26,user2@gmail.com,updated tab,27,1152.749012
+2024-12-31,user2@gmail.com,action,84,1328.162382
+2024-12-31,user2@gmail.com,page property,9,0
+2024-12-31,user2@gmail.com,revert snapshot,2,0.013032
+2024-12-31,user2@gmail.com,updated tab,34,2208.524603
+2024-12-31,user2@gmail.com,widget property,29,1332.081623
